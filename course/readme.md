@@ -20,3 +20,6 @@ P.S Пока без картинок, т.к не было архива с кар
 
 ![image](https://user-images.githubusercontent.com/80594181/149926793-d491556e-582d-4a1b-9c7e-1e80bc49385c.png)
 Готовая шапка сайта + слайдер с информацией об университете.
+
+
+![image](https://user-images.githubusercontent.com/80594181/149927395-c73fe64a-db95-4b63-bbe0-9595cd569fc1.png)
