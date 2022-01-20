@@ -28,3 +28,5 @@ P.S Пока без картинок, т.к не было архива с кар
 
 ![image](https://user-images.githubusercontent.com/80594181/150299850-d5133448-56d5-47d7-b8be-443d0e348344.png)
 
+![image](https://user-images.githubusercontent.com/80594181/150315771-257039db-3996-42ec-9197-4117eb1b6fd9.png)
+
