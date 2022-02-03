@@ -30,3 +30,6 @@ P.S Пока без картинок, т.к не было архива с кар
 
 ![image](https://user-images.githubusercontent.com/80594181/150315771-257039db-3996-42ec-9197-4117eb1b6fd9.png)
 
+![image](https://user-images.githubusercontent.com/80594181/152303925-f225a77b-3d4c-46f1-85ac-c2d5e330b481.png)
+
+
