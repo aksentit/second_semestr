@@ -32,4 +32,7 @@ P.S Пока без картинок, т.к не было архива с кар
 
 ![image](https://user-images.githubusercontent.com/80594181/152303925-f225a77b-3d4c-46f1-85ac-c2d5e330b481.png)
 
+![image](https://user-images.githubusercontent.com/80594181/152308547-badc7a67-cce6-48ed-8b49-39a1a3bcfb01.png)
+
+
 
